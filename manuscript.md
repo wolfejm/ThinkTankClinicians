@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="The role and benefits of cognition and perception in medical imaging" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="The role and benefits of cognition and perception in medical imaging" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="The role and benefits of cognition and perception in medical imaging" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="The role and benefits of cognition and perception in medical imaging" />
 
   <meta name="dc.date" content="2020-04-20" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://thorowitz.github.io/ThinkTankClinicians/v/a4da869b34f4140aaea0fe6ab56cc75af921cef4/" />
+  <link rel="alternate" type="text/html" href="https://thorowitz.github.io/ThinkTankClinicians/v/fe5dd5ef20bc70e0546b1de3c91648c3d03d5ba9/" />
 
-  <meta name="manubot_html_url_versioned" content="https://thorowitz.github.io/ThinkTankClinicians/v/a4da869b34f4140aaea0fe6ab56cc75af921cef4/" />
+  <meta name="manubot_html_url_versioned" content="https://thorowitz.github.io/ThinkTankClinicians/v/fe5dd5ef20bc70e0546b1de3c91648c3d03d5ba9/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://thorowitz.github.io/ThinkTankClinicians/v/a4da869b34f4140aaea0fe6ab56cc75af921cef4/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://thorowitz.github.io/ThinkTankClinicians/v/fe5dd5ef20bc70e0546b1de3c91648c3d03d5ba9/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -93,7 +93,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: The role and benefits of cognition and perception in medical imaging
 ...
 
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://thorowitz.github.io/ThinkTankClinicians/v/a4da869b34f4140aaea0fe6ab56cc75af921cef4/))
+([permalink](https://thorowitz.github.io/ThinkTankClinicians/v/fe5dd5ef20bc70e0546b1de3c91648c3d03d5ba9/))
 was automatically generated
-from [thorowitz/ThinkTankClinicians@a4da869](https://github.com/thorowitz/ThinkTankClinicians/tree/a4da869b34f4140aaea0fe6ab56cc75af921cef4)
+from [thorowitz/ThinkTankClinicians@fe5dd5e](https://github.com/thorowitz/ThinkTankClinicians/tree/fe5dd5ef20bc70e0546b1de3c91648c3d03d5ba9)
 on April 20, 2020.
 </em></small>
 
