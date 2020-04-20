@@ -1,26 +1,20 @@
 ---
 title: "Manuscript Title"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - Medical image perception
+  - Radiology
+  - Pathology
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    name: Melissa Treviño
+    initials: MT
+    email: melissa.trevino@nih.gov
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - National Cancer Institute
+  - github: thorowitz
+    name: Todd S. Horowitz
+    initials: TSH
+    orcid: 0000-0001-5571-6266
+    email: todd.horowitz@nih.gov
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - National Cancer Institute
