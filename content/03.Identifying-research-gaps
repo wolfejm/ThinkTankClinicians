@@ -1,5 +1,4 @@
-Identifying research gaps
-=========================
+## Identifying research gaps
 
 Detection and diagnosis rely on clinicians[^2] searching for abnormalities in medical images.
 Across the many ways to acquire images (from light microscopy to magnetic resonance) and present them (e.g., via glass slides or computer workstations), clinicians are confronted with similar perceptual and cognitive challenges.
