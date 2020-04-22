@@ -12,8 +12,7 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This manuscript describes the deliberations and discussions of the Cognition and Medical Image Perception Think Tank, held at the National Cancer Institute in September, 2019.
 
 ## Manubot
 
