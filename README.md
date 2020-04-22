@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Think Tank paper 1
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -12,7 +12,7 @@
 
 <!-- usage note: edit this section. -->
 
-This manuscript describes the deliberations and discussions of the Cognition and Medical Image Perception Think Tank, held at the National Cancer Institute in September, 2019.
+This manuscript describes the deliberations and discussions of the Cognition and Medical Image Perception Think Tank, held at the National Cancer Institute in September, 2019. This version is aimed at clinicians.
 
 ## Manubot
 
