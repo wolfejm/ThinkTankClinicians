@@ -4,8 +4,8 @@ author-meta:
 - Todd S. Horowitz
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-22'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"citation_title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"og:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"twitter:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"dc.date\" content=\"2020-04-22\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-22\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Melissa Trevi\xF1o\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author\" content=\"Todd S. Horowitz\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5571-6266\" />\n<link rel=\"canonical\" href=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"og:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"twitter:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thorowitz.github.io/ThinkTankClinicians/v/5fd97725421d16cf7eb0b29135d051b7f2e90f8f/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/5fd97725421d16cf7eb0b29135d051b7f2e90f8f/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/5fd97725421d16cf7eb0b29135d051b7f2e90f8f/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2020-04-23'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"citation_title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"og:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"twitter:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"dc.date\" content=\"2020-04-23\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-23\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Melissa Trevi\xF1o\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author\" content=\"Todd S. Horowitz\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5571-6266\" />\n<link rel=\"canonical\" href=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"og:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"twitter:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - Medical image perception
 - Radiology
@@ -25,10 +25,10 @@ title: The role and benefits of cognition and perception in medical imaging
 
 <small><em>
 This manuscript
-([permalink](https://thorowitz.github.io/ThinkTankClinicians/v/5fd97725421d16cf7eb0b29135d051b7f2e90f8f/))
+([permalink](https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/))
 was automatically generated
-from [thorowitz/ThinkTankClinicians@5fd9772](https://github.com/thorowitz/ThinkTankClinicians/tree/5fd97725421d16cf7eb0b29135d051b7f2e90f8f)
-on April 22, 2020.
+from [thorowitz/ThinkTankClinicians@eba451f](https://github.com/thorowitz/ThinkTankClinicians/tree/eba451fb5667ad4350e0376f8fad4c84ff327a35)
+on April 23, 2020.
 </em></small>
 
 ## Authors
@@ -61,7 +61,7 @@ In an era of unprecedented technological advances across the field of medical im
 who make the final decisions on detection, diagnosis, and treatment.
 However, research on the cognitive and perceptual processes underlying clinician performance is chronically understudied.
 In September 2019, the National Cancer Institute (NCI) convened the "Cognition and Medical Image Perception Think Tank" in order to advance research on medical image perception[^1] and cognition.
-The Think Tank brought radiologists and pathologists together with researchers working in medical image perception and adjacent fields of cognition and perception, along with representatives from interested federal government agencies (including NCI, National Institute of Biomedical Imaging and Bioengineering, U.S. Food and Drug Administration, U.S. Department of Homeland Security) to address the Think Tank's key objectives (see Table {@tbl:Objectives}) through panel discussions, constructive discourse, idea generation, and problem-solving.
+The Think Tank brought radiologists and pathologists together with researchers working in medical image perception and adjacent fields of cognition and perception, along with representatives from interested federal government agencies (including NCI, National Institute of Biomedical Imaging and Bioengineering, U.S. Food and Drug Administration, U.S. Department of Homeland Security) to address the Think Tank's key objectives (see Table @tbl:Objectives) through panel discussions, constructive discourse, idea generation, and problem-solving.
 Panel discussions were guided by critical questions generated by the participants themselves in advance of the meeting.
 Here, we report on the Think Tank's deliberations and highlight opportunities to expand the research in medical image perception and cognition.
 
@@ -76,14 +76,9 @@ Here, we report on the Think Tank's deliberations and highlight opportunities to
 Table 1. Think Tank Objectives {#tbl:Objectives}
 
 
-[^1]: We use the term "medical image perception" to cover a wide range
-    of imaging techniques from images of individual cells used in
-    pathology to whole-body radiological images, from glass slides to 3D
-    computer renderings. In addition to detection and diagnosis, medical
-    imaging can also be used to guide surgical interventions. We also
-    extend to term beyond artificially created images; a dermatologist
-    examining your skin, for example, is engaged in a medical image
-    perception task.
+[^1]: We use the term "medical image perception" to cover a wide range of imaging techniques from images of individual cells used in pathology to whole-body radiological images, from glass slides to 3D computer renderings.
+In addition to detection and diagnosis, medical imaging can also be used to guide surgical interventions.
+We also extend to term beyond artificially created images; a dermatologist examining your skin, for example, is engaged in a medical image perception task.
 
 
 ## Identifying research gaps
