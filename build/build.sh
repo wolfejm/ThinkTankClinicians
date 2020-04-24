@@ -23,6 +23,7 @@ manubot process \
 # Pandoc's configuration is specified via files of option defaults
 # located in the PANDOC_DEFAULTS_DIR directory.
 PANDOC_DEFAULTS_DIR="${PANDOC_DEFAULTS_DIR:-build/pandoc-defaults}"
+CSL_PATH=https://www.zotero.org/styles/apa.csl
 
 # Make output directory
 mkdir -p output
