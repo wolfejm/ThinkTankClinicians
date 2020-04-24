@@ -4,8 +4,8 @@ author-meta:
 - Todd S. Horowitz
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-23'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"citation_title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"og:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"twitter:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"dc.date\" content=\"2020-04-23\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-23\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Melissa Trevi\xF1o\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author\" content=\"Todd S. Horowitz\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5571-6266\" />\n<link rel=\"canonical\" href=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"og:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"twitter:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2020-04-24'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"citation_title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"og:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"twitter:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"dc.date\" content=\"2020-04-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Melissa Trevi\xF1o\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author\" content=\"Todd S. Horowitz\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5571-6266\" />\n<link rel=\"canonical\" href=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"og:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"twitter:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thorowitz.github.io/ThinkTankClinicians/v/75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - Medical image perception
 - Radiology
@@ -25,10 +25,10 @@ title: The role and benefits of cognition and perception in medical imaging
 
 <small><em>
 This manuscript
-([permalink](https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/))
+([permalink](https://thorowitz.github.io/ThinkTankClinicians/v/75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c/))
 was automatically generated
-from [thorowitz/ThinkTankClinicians@eba451f](https://github.com/thorowitz/ThinkTankClinicians/tree/eba451fb5667ad4350e0376f8fad4c84ff327a35)
-on April 23, 2020.
+from [thorowitz/ThinkTankClinicians@75bbe54](https://github.com/thorowitz/ThinkTankClinicians/tree/75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c)
+on April 24, 2020.
 </em></small>
 
 ## Authors
@@ -196,6 +196,74 @@ Within the "Reverse Translation Phase 2" model, there are key assumptions that a
 First, clinicians and non-clinicians have the same visual systems and perceptual and cognitive faculties that allow us to process and interpret stimuli.
 Second, artificial tasks and stimuli capture the key elements of the clinical tasks and stimuli. Going back to the work on prevalence effects, studying the effect of low prevalence on radiologists' performance with a reader study would take years to complete and would put a substantial burden on clinicians.
 Medical image perception studies have replicated the prevalence effect in the lab setting using non-clinician readers and non-medical image stimuli [@doi:10.1038/435439a], demonstrated low prevalence influences non-clinician and clinician readers' response criteria [@doi:10.1371/journal.pone.0064366; @doi:10.5858/arpa.2010-0739-OA; @doi:10.1016/j.cub.2009.11.066], and have proposed potential solutions to mitigate prevalence effects [@doi:10.1016/j.visres.2010.04.020; @doi:10.1167/9.1.31; @doi:10.3758/s13414-012-0354-4; @doi:10.1167/13.3.33].
+
+
+## Enabling collaborative transdisciplinary research
+
+Successful collaborations between clinicians and perception researchers[^3] are essential to address the dynamic challenges that clinicians face.
+The study of medical image perception is an inherently trans-disciplinary enterprise, often requiring collaborations between clinicians, medical physicists, computer scientists, biomedical informatics engineers, and psychologists.
+Historically, medical image perception research was led by clinicians, notably William Tuddenham and Harold Kundel [@doi:10.1016/j.jacr.2006.02.023; @doi:10.1148/78.5.694], who championed applying principles from psychology and other disciplines to advance medical image research (Tuddenham, 1969).
+These collaborations were easier to initiate in an era when perceptual psychologists (such as Elizabeth Krupinski at Emory University, or Philip Judy at Brigham and Women's Hospital) were embedded in radiology departments.
+These researchers were intimately familiar with the problems and perspectives of clinicians, and could also easily find collaborators.
+Unfortunately, this model has fallen out of favor.
+Today, multiple barriers hinder collaborations between perception researchers and clinicians (see Table @tbl:barriers).
+Here, we expand on the challenges and potential solutions that were discussed.
+
+The main constraint on successful collaborations is the limited time clinicians have to be active researchers and/or participate in reader studies.
+Collaborations should be designed to respect the clinician's schedule, and projects should be developed around common interests of both parties.
+Resources should be available for clinicians through incentives and grant mechanisms.
+Incentives for clinicians participating in reader studies are either nonexistent or not beneficial for the clinician.
+Think Tank participants proposed a number of possible solutions.
+An important step would be to provide incentives continuing medical education (CME) credit and/or CME in Risk Management for participating in research.
+In order to facilitate CME credit, an educational module should be created for participants.
+Possible objectives for this educational module could include education on classic visual search and interpretive errors (e.g., prevalence effects, satisfaction of search errors, satisfaction of report errors, cognitive biases) and fundamental perceptual or cognitive concepts relating to clinical practice (e.g., perceptual attributes of expertise, development of global processing, attentional mechanisms).
+A more ambitious suggestion is to create joint funding opportunities with the Agency for Healthcare Research & Quality (AHRQ), NCI's Healthcare Delivery Research Program and Behavioral Research Programs, and the National Institute of Biomedical Imaging and Bioengineering (NIBIB) to support collaborative research funding, protected time for clinicians committed to research, and/or mentoring junior research scientists.
+
+Organizing "pop-up" perception laboratories at clinician conferences to recruit clinicians in reader studies has been successful in recent years [@doi:10.1016/j.radi.2019.05.009], but sustaining these efforts will require partnering with national and regional medical conferences (e.g.
+American Society for Clinical Pathology (ASCP), Radiological Society of North America (RSNA), Society of Nuclear Medicine and Molecular Imaging, The Association for Medical Ultrasound), university medical centers, NCI designated cancer centers, and the American College of Radiology, to make medical image perception research a priority, and to financially sustain perception laboratories.
+Perception laboratories at conferences could also be sustained through NIH R24 or R25 grant mechanisms.
+
+Collaboration often develops serendipitously, and serendipity depends on proximity.
+For perception researchers who are not embedded within medical centers, opportunities to network or promote research though invited talks are limited.
+One solution would be to create a match-making resource to identify perception researchers, clinicians, conferences, private practices, and medical departments that are open to collaborative research.
+Contributors would indicate their areas of expertise and of interest, and the type of contribution they were interested in providing, such as participating in reader studies, inviting researchers to give talks at their institutions, providing image datasets, generating research ideas and providing feedback, or becoming investigators.
+Another idea is to bring perception science to the clinicians.
+While the primary purpose of a pop-up lab like the NCI Perception Lab at RSNA is to recruit clinicians as participants, these endeavors can also provide opportunities for exposing clinicians to perceptual research and sparking conversations between researchers and clinicians.
+These outreach opportunities could be expanded, perhaps by providing workshops on perceptual science at a variety of clinical meetings, where perceptual scientists could explain their research and exchange ideas with clinicians.
+
+Accessing medical image datasets can be a challenge for perception researchers.
+Curating large image datasets is often time-consuming for the clinician and requires financial resources to undertake and sustain.
+Sharing images across institutions is difficult due to liability issues.
+Even access to image sets from large, government-funded trials can be arduous and depend on the preferences of the original PIs.
+Furthermore, access may be only for restricted uses, such as specific research projects, making it difficult to develop clinical tools.
+These problems could be addressed by developing templates for peer-to-peer research collaboration and sharing agreement.
+
+There are also existing image repositories (e.g., NCI's The Cancer Imaging Archive, TCIA).
+These repositories may avoid the access difficulties associated with clinical trial image sets, but they often lack needed clinical context, appropriate annotations, and an efficient interface for navigating and searching for relevant images.
+One possible solution would be to emulate the Crowds Cure Cancer project, which was created in 2017 to address the lack of annotations in NCI's Cancer Imaging Archive.
+Crowds Cure Cancer recruited radiologists attending RSNA to identify lesions, lesion characteristics, and provide details regarding image quality.
+This professional crowdsourcing model could be a template for annotating other large medical image repositories.
+Involving perception scientists in the design of the project could help to ensure that variables important to perception studies were coded as well.
+
+Another factor is the rise in recent years of AI approaches to medical image interpretation.
+If machines are going to be finding the lesions and counting the abnormal cells, then understanding how the human perceptual system interprets medical images is a waste of time.
+Even for clinicians who are skeptical about the potential of AI to replace them (or the timeline) may find that AI projects compete with perception research for their limited research time.
+
+
+| Barriers that Hinder Collaborations Between Researchers and Clinicians.|
+|:------------------|
+|1. Time Pressures for Clinicians.
+- Access to clinicians is limited in terms of collaborations and participation in reader studies.
+- Incentives (i.e., CEM/RME Credit) should be provided to clinicians.|
+| 2. Lack of Networking Among Disciplines.
+- Increase the probability of serendipitous collaborations by creating a "matchmaking" resource.|
+| 3. Limited Access to Image Datasets|
+| 4. What is the relevance of human perception in the face of AI?|
+
+Table: Barriers to Transdisciplinary Research
+{#tbl:barriers}
+
+[^3]: We are using "perception research" as a shorthand for all the research fields that can contribute to an understanding of the cognitive and perceptual context of medical image perception. This should be understood to encompass cognitive psychology, vision science, cognitive neuroscience, and so forth.
 
 
 ## References {.page_break_before}

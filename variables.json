@@ -7,12 +7,12 @@
       "Pathology"
     ],
     "lang": "en-US",
-    "date-meta": "2020-04-23",
+    "date-meta": "2020-04-24",
     "author-meta": [
       "Melissa Treviño",
       "Todd S. Horowitz"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"citation_title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"og:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"twitter:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"dc.date\" content=\"2020-04-23\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-23\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Melissa Treviño\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author\" content=\"Todd S. Horowitz\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5571-6266\" />\n<link rel=\"canonical\" href=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"og:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"twitter:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"citation_title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"og:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"twitter:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"dc.date\" content=\"2020-04-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Melissa Treviño\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author\" content=\"Todd S. Horowitz\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5571-6266\" />\n<link rel=\"canonical\" href=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"og:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"twitter:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thorowitz.github.io/ThinkTankClinicians/v/75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -22,7 +22,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "April 23, 2020",
+    "date": "April 24, 2020",
     "authors": [
       {
         "name": "Melissa Treviño",
@@ -60,19 +60,19 @@
       "repo_slug": "thorowitz/ThinkTankClinicians",
       "repo_owner": "thorowitz",
       "repo_name": "ThinkTankClinicians",
-      "commit": "eba451fb5667ad4350e0376f8fad4c84ff327a35",
-      "triggering_commit": "eba451fb5667ad4350e0376f8fad4c84ff327a35",
-      "build_url": "https://github.com/thorowitz/ThinkTankClinicians/commit/eba451fb5667ad4350e0376f8fad4c84ff327a35/checks",
+      "commit": "75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c",
+      "triggering_commit": "75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c",
+      "build_url": "https://github.com/thorowitz/ThinkTankClinicians/commit/75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c/checks",
       "job_url": "https://github.com/thorowitz/ThinkTankClinicians/runs/run2"
     },
     "html_url": "https://thorowitz.github.io/ThinkTankClinicians/",
     "pdf_url": "https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf",
-    "html_url_versioned": "https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/",
-    "pdf_url_versioned": "https://thorowitz.github.io/ThinkTankClinicians/v/eba451fb5667ad4350e0376f8fad4c84ff327a35/manuscript.pdf",
+    "html_url_versioned": "https://thorowitz.github.io/ThinkTankClinicians/v/75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c/",
+    "pdf_url_versioned": "https://thorowitz.github.io/ThinkTankClinicians/v/75bbe54c82ec12a4e6e03abfdba7f53ec0f0af1c/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "073ce0e4e81c82e1ce8c55caeab0ebc6fd0f840c",
     "manuscript_stats": {
-      "word_count": 3155
+      "word_count": 4250
     }
   }
 }
