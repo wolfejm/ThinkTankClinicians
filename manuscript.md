@@ -5,7 +5,7 @@ author-meta:
 bibliography:
 - content/manual-references.json
 date-meta: '2020-04-24'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"citation_title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"og:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"twitter:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"dc.date\" content=\"2020-04-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Melissa Trevi\xF1o\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author\" content=\"Todd S. Horowitz\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5571-6266\" />\n<link rel=\"canonical\" href=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"og:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"twitter:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thorowitz.github.io/ThinkTankClinicians/v/e01d57003537e1103ded38ea95c2de2a08c3959d/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/e01d57003537e1103ded38ea95c2de2a08c3959d/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/e01d57003537e1103ded38ea95c2de2a08c3959d/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"citation_title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"og:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"twitter:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"dc.date\" content=\"2020-04-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Melissa Trevi\xF1o\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author\" content=\"Todd S. Horowitz\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5571-6266\" />\n<link rel=\"canonical\" href=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"og:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"twitter:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thorowitz.github.io/ThinkTankClinicians/v/808730c7e51d4e645efc0c90314909cc107d8ec4/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/808730c7e51d4e645efc0c90314909cc107d8ec4/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/808730c7e51d4e645efc0c90314909cc107d8ec4/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - Medical image perception
 - Radiology
@@ -25,9 +25,9 @@ title: The role and benefits of cognition and perception in medical imaging
 
 <small><em>
 This manuscript
-([permalink](https://thorowitz.github.io/ThinkTankClinicians/v/e01d57003537e1103ded38ea95c2de2a08c3959d/))
+([permalink](https://thorowitz.github.io/ThinkTankClinicians/v/808730c7e51d4e645efc0c90314909cc107d8ec4/))
 was automatically generated
-from [thorowitz/ThinkTankClinicians@e01d570](https://github.com/thorowitz/ThinkTankClinicians/tree/e01d57003537e1103ded38ea95c2de2a08c3959d)
+from [thorowitz/ThinkTankClinicians@808730c](https://github.com/thorowitz/ThinkTankClinicians/tree/808730c7e51d4e645efc0c90314909cc107d8ec4)
 on April 24, 2020.
 </em></small>
 
@@ -73,7 +73,7 @@ Here, we report on the Think Tank's deliberations and highlight opportunities to
 | 4.  Identify and discuss ways to elevate psychology's profile within the medical image community and broader communities.|
 | 5.  Identify future goals and identify strategies to evaluate progress.|
 
-Table 1. Think Tank Objectives
+Table: Think Tank Objectives
 {#tbl:Objectives}
 
 
@@ -268,14 +268,8 @@ Potential journals to target include: *Journal of Medical Imaging*, *Archives of
 | Ways to Elevate Medical Image Cognition and Perception's Profile Within the Medical Image Community|
 |:----------|
 | 1.  Create a network of invested stakeholders (e.g., clinicians, academia, biomedical informatics, government and regulatory agencies, medical centers, industry) to support an awareness program promoting education, collaboration, and research.|
-| 2.  Outreach and Roadshows.
--   Educate clinicians about cognition and perception.
--   Educate cognition and perception researchers about the clinicians perspective.
--   Add outreach to the perception lab model.
-    -   Reading room of the future|
-| 3.  Education Trainings.
--   Trainings on cognitive and perceptual fundamentals as "noninterpretive skills".
--   Trainings for study sections.|
+| 2.  Outreach and Roadshows.<br> -   Educate clinicians about cognition and perception.<br> -   Educate cognition and perception researchers about the clinicians perspective.<br> -   Add outreach to the perception lab model.<br>     -   Reading room of the future|
+| 3.  Education Trainings.<br> -   Trainings on cognitive and perceptual fundamentals as "noninterpretive skills".<br> -   Trainings for study sections.|
 | 4.  Publish research in special issues in medical journals to ensure credibility and visibility among clinicians.|
 
 Table: Medical Image Cognition and Perception's Profile
@@ -305,15 +299,8 @@ Symposiums and workshops on medical imaging and clinicians' issues should be hel
 
 | Future Goals and Strategies to Evaluate Progress|
 |:-------|
-| 1.  Metrics.
--   Track the number of funding announcements, grants submitted, grants funded, workshops and pop-up labs held at conferences, new principle investigators in the field.
--   Track clinical practice changes.
-    - Industry modifications to workstations that have resulted from cognition and perception research.
-    - Reduction in diagnostic errors.
--   Quantify the trajectory starting in 2014, what is the counterfactual?
-    - What can we do to change the slope?|
-| 2.  NCI's networking website.
--   <https://cancercontrol.cancer.gov/brp/bbpsb/cognitive-changes/perception.html>|
+| 1.  Metrics.<br> -   Track the number of funding announcements, grants submitted, grants funded, workshops and pop-up labs held at conferences, new principle investigators in the field.<br> -   Track clinical practice changes.<br>     - Industry modifications to workstations that have resulted from cognition and perception research.<br>     - Reduction in diagnostic errors.<br> -   Quantify the trajectory starting in 2014, what is the counterfactual?<br>     - What can we do to change the slope?|
+| 2.  NCI's networking website.<br> -   <https://cancercontrol.cancer.gov/brp/bbpsb/cognitive-changes/perception.html>|
 | 3.  Engage the broader cognitive science community.|
 
 Table: Future Goals
