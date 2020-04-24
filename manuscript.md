@@ -5,7 +5,7 @@ author-meta:
 bibliography:
 - content/manual-references.json
 date-meta: '2020-04-24'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"citation_title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"og:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"twitter:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"dc.date\" content=\"2020-04-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Melissa Trevi\xF1o\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author\" content=\"Todd S. Horowitz\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5571-6266\" />\n<link rel=\"canonical\" href=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"og:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"twitter:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thorowitz.github.io/ThinkTankClinicians/v/6123d68a00bdd36825823fe3aeef238490e10f4f/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/6123d68a00bdd36825823fe3aeef238490e10f4f/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/6123d68a00bdd36825823fe3aeef238490e10f4f/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"citation_title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"og:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta property=\"twitter:title\" content=\"The role and benefits of cognition and perception in medical imaging\" />\n<meta name=\"dc.date\" content=\"2020-04-24\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-24\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Melissa Trevi\xF1o\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author\" content=\"Todd S. Horowitz\" />\n<meta name=\"citation_author_institution\" content=\"National Cancer Institute\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5571-6266\" />\n<link rel=\"canonical\" href=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"og:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta property=\"twitter:url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thorowitz.github.io/ThinkTankClinicians/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thorowitz.github.io/ThinkTankClinicians/v/9c864da0405af12896b9524279b13a6e592b5860/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/9c864da0405af12896b9524279b13a6e592b5860/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thorowitz.github.io/ThinkTankClinicians/v/9c864da0405af12896b9524279b13a6e592b5860/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - Medical image perception
 - Radiology
@@ -25,9 +25,9 @@ title: The role and benefits of cognition and perception in medical imaging
 
 <small><em>
 This manuscript
-([permalink](https://thorowitz.github.io/ThinkTankClinicians/v/6123d68a00bdd36825823fe3aeef238490e10f4f/))
+([permalink](https://thorowitz.github.io/ThinkTankClinicians/v/9c864da0405af12896b9524279b13a6e592b5860/))
 was automatically generated
-from [thorowitz/ThinkTankClinicians@6123d68](https://github.com/thorowitz/ThinkTankClinicians/tree/6123d68a00bdd36825823fe3aeef238490e10f4f)
+from [thorowitz/ThinkTankClinicians@9c864da](https://github.com/thorowitz/ThinkTankClinicians/tree/9c864da0405af12896b9524279b13a6e592b5860)
 on April 24, 2020.
 </em></small>
 
@@ -235,6 +235,53 @@ Table: Barriers to Transdisciplinary Research
 {#tbl:barriers}
 
 [^3]: We are using "perception research" as a shorthand for all the research fields that can contribute to an understanding of the cognitive and perceptual context of medical image perception. This should be understood to encompass cognitive psychology, vision science, cognitive neuroscience, and so forth.
+
+
+## Elevating the profile of medical image perception research
+
+Elevating the profile of medical image perception research within the broader medical and scientific communities (e.g., government agencies, industry, advocacy groups, journal editors, review panels, study sections) is essential to ensure a sustainable future for this important research endeavor.
+Here we identify key essential elements for achieving this goal (see Table @tbl:profile).
+
+Creating a network of invested stakeholders (e.g., clinicians, academia, biomedical informatics, government and regulatory agencies, medical centers, industry, conferences) is critical to support an awareness program promoting education, collaboration, and research.
+Clinician advocates are needed to lend visibility and credibility to perception research, and to highlight its importance to the medical community.
+This is important not just to facilitate the research itself, but also to encourage adoption and implementation of research-based solutions to clinician challenges.
+Potential models for this network include the National Collaborative on Childhood Obesity Research (NCCOR) and the Alliance for Digital Pathology (ADP).
+NCCOR is a partnership between federal government agencies (NIH, USDA, and CDC) and the non-profit Robert Wood Johnson Foundation.
+NCCOR provides infrastructure and resources to promote collaborative research, and supports an outreach program to educate the community on successful collaborations that are fighting childhood obesity.
+The Alliance for Digital Pathology is a regulatory science initiative that brings together clinicians, researchers, government, and industry to identity key aims to advance digital pathology and provide an infrastructure for collaborative projects.
+
+Outreach efforts at conferences are needed to engage and inform the communities.
+Symposiums should be held at clinician conferences, such as the ASCP and RSNA, to educate clinicians on how the science of cognition and perception can inform their work, and to highlight research findings that have produced positive changes in clinical practice.
+Perception researchers should create a model "reading room of the future" at conferences and invite clinicians to different workstations that promote research outcomes.
+Symposiums and workshops on medical image perception should be held at cognition and perception conferences (e.g., Psychonomic Society, Vision Sciences Society).
+As a model, consider the outreach efforts conducted by The International Society for Optics and Photonics (SPIE) to educate researchers on the clinician's perspective and challenges, such as organizing demonstrations of clinicians interpreting images to allow researchers to learn how clinicians read.
+
+Clinicians should be given training in fundamental concepts of cognition and perception, as they pertain to diagnostic performance in clinical practice.
+This training should be included in the noninterpretive skills section of the American Board of Radiology (ABR) Core and Certifying examination.
+Similar to the educational module for CME credit (see *Enabling Collaborative Transdisciplinary Research* section), fundamental topics should include: classification of visual search errors, development of global processing, attentional mechanisms related to clinical practice, and classic perceptual and interpretive errors.
+It would also be a good idea to revive the practice of providing training for NIH study sections tasked with reviewing medical image perception research proposals.
+
+Publishing cognition and perception medical image research in medical journals, particularly special issues journals (e.g., human observer performance issues in Journal of Medical Imaging), ensures credibility and visibility among clinicians.
+However, publishing in main radiology journals is uneven.
+Research papers, tutorial reviews, and editorials should be placed in prominent journals read by radiologists, pathologists, and other clinicians.
+Special issues could be commissioned.
+Potential journals to target include: *Journal of Medical Imaging*, *Archives of Medicine*, *Modern Pathology*, *Journal of Pathology Informatics*.
+
+| Ways to Elevate Medical Image Cognition and Perception's Profile Within the Medical Image Community|
+|:----------|
+| 1.  Create a network of invested stakeholders (e.g., clinicians, academia, biomedical informatics, government and regulatory agencies, medical centers, industry) to support an awareness program promoting education, collaboration, and research.|
+| 2.  Outreach and Roadshows.
+-   Educate clinicians about cognition and perception.
+-   Educate cognition and perception researchers about the clinicians perspective.
+-   Add outreach to the perception lab model.
+    -   Reading room of the future|
+| 3.  Education Trainings.
+-   Trainings on cognitive and perceptual fundamentals as "noninterpretive skills".
+-   Trainings for study sections.|
+| 4.  Publish research in special issues in medical journals to ensure credibility and visibility among clinicians.|
+
+Table: Medical Image Cognition and Perception's Profile
+{#tbl:profile}
 
 
 ## References {.page_break_before}
