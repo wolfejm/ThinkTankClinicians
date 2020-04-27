@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/thorowitz/ThinkTankClinicians/tree/gh-pages) branch hosts the contents of this directory at <https://thorowitz.github.io/ThinkTankClinicians/>.
-The permalink for this webpage version is <https://thorowitz.github.io/ThinkTankClinicians/v/1358a972eb72864476bfd40404763eb485d2fb62/>.
+The permalink for this webpage version is <https://thorowitz.github.io/ThinkTankClinicians/v/cd55dc7265a6d1b3f233a9898c9080503471bdd1/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://thorowitz.github.io/ThinkTankClinicians/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`1358a972eb72864476bfd40404763eb485d2fb62`](https://github.com/thorowitz/ThinkTankClinicians/commit/1358a972eb72864476bfd40404763eb485d2fb62).
+[`cd55dc7265a6d1b3f233a9898c9080503471bdd1`](https://github.com/thorowitz/ThinkTankClinicians/commit/cd55dc7265a6d1b3f233a9898c9080503471bdd1).
